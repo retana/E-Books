@@ -1,191 +1,190 @@
-# IT e-books collection 
- ---------- 
-## architecture
-1.4ÒÚÔÚÏß±³ºóµÄ¹ÊÊÂ-¡ª¡ª-ÌÚÑ¶-QQ-IMºóÌ¨¼Ü¹¹µÄÑİ»¯ÓëÆôÊ¾.ppt
-Bonus_Chapter.pdf
-Seven Concurrency Models in Seven Weeks.pdf
-The art of multiprocessor programming.pdf
-ÆßÖÜÆß²¢·¢Ä£ĞÍ.pdf
-## code exercise
-leetcode-cpp.pdf
-## computer network
-HTTP_The+Definitive+Guide.pdf
-HTTPÈ¨ÍşÖ¸ÄÏ£¨ÕæÕıµÄÍêÕû°æ£¬ËÍ¸ø°®Ñ§Ï°µÄÈË£©.pdf
-Richard_Stevens-TCP-IP_Illustrated-EN.pdf
-tcp_ip-illustrated-vol-2.pdf
-TCP_IP_µÚ5°æ.pdf
-¼ÆËã»úÍøÂç 5edition.pdf
-## container
-Docker-for-Virtualization-Admin-eBook.pdf
-## data structure and algrithm
-Data Structure For Game Programers - Ron Penton.pdf
-lock-free-vector.pdf
-RedBlack.pdf
-Êı¾İ½á¹¹ÓëËã·¨·ÖÎö£ºCÓïÑÔÃèÊö_Ô­ÊéµÚ2°æ_¸ßÇå°æ.pdf
-Ëã·¨µ¼ÂÛÖĞÎÄµÚ¶ş°æ.pdf
-Ëã·¨ÒıÂÛ£ºÒ»ÖÖ´´ÔìĞÔ·½·¨.pdf
-## database
-Mastering Redis.epub
-O'Reilly.High.Performance.MySQL.3rd.Edition.Mar.2012.pdf
-QConSF2012-EricBrewer-NoSQLPastPresentFuture.pdf
-Redis in Action.pdf
-REDIS ÈëÃÅÖ¸ÄÏ.pdf
-RedisÉè¼ÆÓëÊµÏÖ.mobi
-Spanner Googles Globally Distributed Database.pdf
-SQL±ØÖª±Ø»áBen Forta.mobi
-## distributed system
-Distributed systems basic concepts.mobi
-Distributed systems basic concepts.pdf
-Distributed Systems Concepts and Design 5ed.pdf
-gfs.pdf
-Impossibility of Distributed Consensus with One Faulty Process (FLP Impossibility).pdf
-lamport-paxos.pdf
-MapReduce Simplified Data Processing on Large Clusters.pdf
-Martin Kleppmann-Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems-O¡¯Reilly Media (2017).epub
-Martin Kleppmann-Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems-O¡¯Reilly Media (2017).pdf
-paxos-simple.pdf
-Perspectives on the CAP TheoremBrewer2.pdf
-raft-extended.pdf
-replication2.pdf
-Time, Clocks, and the Ordering of Events in a Distributed System.pdf
-vm-ft.pdf
-## game
-Algorithms And Networking For Computer Games.pdf
-dead-reckon.pdf
-DOOMÆôÊ¾Â¼.pdf
-fast-action-net-game.pdf
-Game Engine Architecture.pdf
-Hybrid Peer-to-Peer Solution forMMORPGs.pdf
-ÓÎÏ·Ö®ÂÃ-ÎÒµÄ±à³Ì¸ĞÎò ÔÆ·çÖø 414Ò³ 37.5M ¸ßÇåÊéÇ©°æ.pdf
-## linux
-APUE-3rd.pdf
-Eric S. Raymond-The Art of UNIX Programming-Addison-Wesley Professional (2003).epub
-Eric S. Raymond-The Art of UNIX Programming-Addison-Wesley Professional (2003).mobi
-just for fun.pdf
-linux-0.12-code.tar
-LinuxÄÚºËÍêÈ«ÆÊÎö»ùÓÚ0.12ÄÚºË.pdf
-MinixÔ´´úÂë.pdf
-UNIXÍøÂç±à³Ì ¾í1.pdf
-¡¶Äñ¸çµÄLinuxË½·¿²Ë-»ù´¡Æª¡·µÚËÄ°æ.pdf
-Äñ¸çµÄLinuxË½·¿²Ë-·şÎñÆ÷¼ÜÉèÆª(µÚÈı°æ)¸ßÇåÎú.pdf
-## others
-An_Introduction_to_GCC_ÖĞÎÄ.pdf
-build you own memory manager.pdf
-cpumemory.pdf
-Debugging With Gdb - The Gnu Source-Level Debugger.pdf
-Debugging With GDBÖĞÎÄ°æ.pdf
-Head First  Jquery£¨ÖĞÎÄ°æ£©.pdf
-Head First jQuery.pdf
-How To Ask Questions The Smart Way. Eric Steven Raymond.pdf
-podc-1996.pdf
-proactor.pdf
-Structure And Interpretation Of Computer Programs (SICP).pdf
-threads.pdf
-ZeroMQ Messaging for Many Applications.pdf
-¡¶´ó½ÌÌÃÓë¼¯ÊĞ¡·ÖĞÎÄ°æ.pdf
-´ó½ÌÌÃÓë¼¯ÊĞ_ÖĞÓ¢ÎÄ¶ÔÕÕ.pdf
-ÈçºÎÀí½âcºÍc++µÄ¸´ÔÓÀàĞÍÉùÃ÷.pdf
-ÊıÑ§Ö®ÃÀ.Îâ¾ü.Ó°Ó¡°æ.PDF
-°µÊ±¼ä.pdf
-ÀË³±Ö®áÛ.pdf
-ÉîÈëÀí½âJavaĞéÄâ»ú£¨µÚ2°æ£©-da83.mobi
-¾«Í¨ÕıÔò±í´ïÊ½.pdf
-±àÂëµÄ°ÂÃØ.pdf
-## program language
-A Little Java A Few Patterns.pdf
-build your own memory manager.pdf
-C Interfaces and Implementations.pdf
-C#+6.0+in+a+Nutshell.pdf
-C++ C±à³ÌÖ¸ÄÏ¡·.ÁÖÈñ×Å.pdf
-C++ Primer Fifth Edition.pdf
-C++ Templates_ The Complete Guide  -Addison-Wesley Professional 1ed(2002).epub
-C++ Templates_ The Complete Guide-Addison-Wesley (2017).epub
-C++ Templates_ The Complete Guide-Addison-Wesley (2017).pdf
-C++¶ÔÏóÄ£ĞÍ PDFÖĞÎÄÇåÎú°æ.pdf
-CºÍÖ¸Õë.pdf
-C³ÌĞòÉè¼ÆÓïÑÔ(µÚ2°æ_ĞÂ°æ).pdf
-CÓïÑÔ½Ó¿ÚÓëÊµÏÖ--´´½¨¿ÉÖØÓÃÈí¼şµÄ¼¼Êõ.pdf
-Effective CPP.pdf
-Effective Go - The Go Programming Language.pdf
-Effective Modern CPP.pdf
-Fluent_Scheme¼òÃ÷ÖĞÎÄÊÖ²á-´øÊéÇ©.pdf
-GoÓïÑÔ±à³Ì.pdf
-How To Design Programs.pdf
-JavaScriptÈ¨ÍşÖ¸ÄÏ(µÚ6°æ)(ÖĞÎÄ°æ).pdf
-JavaScriptÈ¨ÍşÖ¸ÄÏ-µÚ6°æ.pdf
-JavaScript¸ß¼¶³ÌĞòÉè¼Æ£¨µÚ3°æ£©ÖĞÎÄ ¸ßÇå ÍêÕû.pdf
-Javascrpt  ¸ß¼¶³ÌĞòÉè¼Æ£¨µÚ3°æ£©Ó¢ÎÄ.pdf
-LambdaºÍ¸ß½×º¯Êı_ÁõĞÂÓî.pdf
-Lua 5.pdf
-LuaÖĞÎÄ½Ì³Ì.pdf
-Masterminds of Programming.pdf
-Modern C++ Design_ Generic Programming and Design Patterns Applied by Andrei Alexandrescu-Addison-Wesley Professional (2001).mobi
-Modern C++ Design_ Generic Programming and Design Patterns Applied by Andrei Alexandrescu-Addison-Wesley Professional (2001).pdf
-Monads for functional programming.pdf
-More Effective CPP.pdf
-Object-Oriented Programming With ANSI-C.pdf
-Programming in Lua third edition.pdf
-Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (January 3, 2013).epub
-Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (January 3, 2013).mobi
-Programming Language Pragmatics 3rd.pdf
-Programming+Language+Pragmatics+4th.pdf
-Programming.in.Lua.4th.Edition.2016.8.mobi
-Programming.in.Lua.4th.Edition.pdf
-readinglua.pdf
-schem-r5rscn.pdf
-scheme-r5rs.pdf
-schemeÖ®µÀ.docx
-Seven Languages in Seven Weeks.pdf
-Simply.Scheme.pdf
-The C Programming Language 2E.pdf
-The Design And Evolution Of Cpp.pdf
-The development of Chez Scheme.pdf
-The Essence of Compiling with Continuations.pdf
-The Evolution of Lua.pdf
-The Garbage Collection Handbook.pdf
-The Garbage Collection Handbook_The Art of Automatic Memory Management (2011, Chapman and Hall_CRC).epub
-The Go Programming Language.pdf
-The Seasoned Schemer.pdf
-The.Little.Schemer.4th.2.pdf
-The.MIT.Press.Essentials.of.Programming.Languages.3rd.Edition.Apr.2008.pdf
-The_essence_of_functional_programming_(1992).pdf
-Threading in C#.pdf
-Turing Machines And Languages With Only Two Formation Rules.pdf
-Á½ÖÜ×ÔÖÆ½Å±¾ÓïÑÔ¸ßÇåÍêÕû°æ.pdf
-¹ØÓÚ_Ë¼¿¼º¯ÊıÊ½±à³Ì_¼¸µã×¢¼Ç_ôÃ×ÚÑà.pdf
-º¯ÊıÊ½±à³ÌÓïÑÔ·¢Õ¹¼°Ó¦ÓÃ_ÍõÑ§Èğ.pdf
-º¯ÊıÊ½ÓïÑÔ²¢ĞĞ»¯µÄ·½·¨_¹ÅÖ¾Ãñ.pdf
-À¬»ø»ØÊÕµÄËã·¨ÓëÊµÏÖ.pdf
-ÈçºÎ±àĞ´³ÌĞò(scheme lambda).PDF
-Ë¼¿¼º¯ÊıÊ½±à³Ì_²ÌÑ§ïŞ.pdf
-×ÔÖÆ±àÒëÆ÷ ,ÇàÄ¾·åÀÉÖø ,P445.pdf
-## server
-´óĞÍ¶àÈËÔÚÏßÓÎÏ·¿ª·¢_20.pdf
-´óĞÍÍøÕ¾¼¼Êõ¼Ü¹¹+ºËĞÄÔ­ÀíÓë°¸Àı·ÖÎö+ÀîÖÇ»Û.pdf
-°ÙÍòÓÃ»§¼¶ÓÎÏ··şÎñÆ÷¼Ü¹¹Éè¼Æ .pdf
-## shell
-LINUX SHELL½Å±¾¹¥ÂÔ(ÖĞÎÄ°æ´øÊéÇ©).pdf
-shell ½Å±¾¸÷ÖÖÀ¨ºÅµÄÓÃÍ¾.docx
-## software engineering
-(Robert C. Martin Series) Martin, R.C.-Clean Architecture_ A Craftsman's Guide to Software Structure and Design-Pearson Education (2017).epub
-(Robert C. Martin Series) Martin, R.C.-Clean Architecture_ A Craftsman's Guide to Software Structure and Design-Pearson Education (2017).mobi
-Architectural Styles and the Design of Network-based Software Architectures.pdf
-Clean Code.pdf
-Code.Complete.2nd.Steve.McConnell.pdf
-Debug It! Find, Repair, and Prevent Bugs in Your Code.pdf
-design-patterns in dynamic programming.ppt
-DesignPatterns.pdf
-ExtremeProgramming.pdf
-Google_Cpp_Style_guide_CN.pdf
-K.Beck, M.Fowler -- Planning Extreme Programming.pdf
-NullObject.pdf
-Refactoring_improving_the_design_of_existing_code.pdf
-The Practice of Programming(ÖĞÎÄ°æ).pdf
-The Practice of Programming(Ó¢ÎÄ°æ).pdf
-the_art_of_readable_code.pdf
-Working Effectively with Legacy Code.pdf
-´ó»°Éè¼ÆÄ£Ê½(´øÄ¿Â¼ÍêÕû°æ).pdf
-¼Ü¹¹·ç¸ñÓë»ùÓÚÍøÂçµÄÈí¼ş¼Ü¹¹Éè¼Æ.pdf
-## tools
-progit-zh.936.mobi
-progit.pdf
+# IT e-books collection 
+ ---------- 
+## linux
+Minixæºä»£ç .pdf
+just for fun.pdf
+linux-0.12-code.tar
+Linuxå†…æ ¸å®Œå…¨å‰–æåŸºäº0.12å†…æ ¸.pdf
+ã€Šé¸Ÿå“¥çš„Linuxç§æˆ¿èœ-åŸºç¡€ç¯‡ã€‹ç¬¬å››ç‰ˆ.pdf
+Eric S. Raymond-The Art of UNIX Programming-Addison-Wesley Professional (2003).mobi
+UNIXç½‘ç»œç¼–ç¨‹ å·1.pdf
+Eric S. Raymond-The Art of UNIX Programming-Addison-Wesley Professional (2003).epub
+é¸Ÿå“¥çš„Linuxç§æˆ¿èœ-æœåŠ¡å™¨æ¶è®¾ç¯‡(ç¬¬ä¸‰ç‰ˆ)é«˜æ¸…æ™°.pdf
+APUE-3rd.pdf
+## software engineering
+Code.Complete.2nd.Steve.McConnell.pdf
+Working Effectively with Legacy Code.pdf
+design-patterns in dynamic programming.ppt
+å¤§è¯è®¾è®¡æ¨¡å¼(å¸¦ç›®å½•å®Œæ•´ç‰ˆ).pdf
+(Robert C. Martin Series) Martin, R.C.-Clean Architecture_ A Craftsman's Guide to Software Structure and Design-Pearson Education (2017).mobi
+Architectural Styles and the Design of Network-based Software Architectures.pdf
+the_art_of_readable_code.pdf
+The Practice of Programming(ä¸­æ–‡ç‰ˆ).pdf
+DesignPatterns.pdf
+The Practice of Programming(è‹±æ–‡ç‰ˆ).pdf
+Refactoring_improving_the_design_of_existing_code.pdf
+ExtremeProgramming.pdf
+æ¶æ„é£æ ¼ä¸åŸºäºç½‘ç»œçš„è½¯ä»¶æ¶æ„è®¾è®¡.pdf
+K.Beck, M.Fowler -- Planning Extreme Programming.pdf
+(Robert C. Martin Series) Martin, R.C.-Clean Architecture_ A Craftsman's Guide to Software Structure and Design-Pearson Education (2017).epub
+Clean Code.pdf
+Debug It! Find, Repair, and Prevent Bugs in Your Code.pdf
+NullObject.pdf
+Google_Cpp_Style_guide_CN.pdf
+## game
+dead-reckon.pdf
+Hybrid Peer-to-Peer Solution forMMORPGs.pdf
+Algorithms And Networking For Computer Games.pdf
+æ¸¸æˆä¹‹æ—…-æˆ‘çš„ç¼–ç¨‹æ„Ÿæ‚Ÿ äº‘é£è‘— 414é¡µ 37.5M é«˜æ¸…ä¹¦ç­¾ç‰ˆ.pdf
+fast-action-net-game.pdf
+DOOMå¯ç¤ºå½•.pdf
+Game Engine Architecture.pdf
+## architecture
+Bonus_Chapter.pdf
+Seven Concurrency Models in Seven Weeks.pdf
+1.4äº¿åœ¨çº¿èƒŒåçš„æ•…äº‹-â€”â€”-è…¾è®¯-QQ-IMåå°æ¶æ„çš„æ¼”åŒ–ä¸å¯ç¤º.ppt
+ä¸ƒå‘¨ä¸ƒå¹¶å‘æ¨¡å‹.pdf
+The art of multiprocessor programming.pdf
+## computer network
+è®¡ç®—æœºç½‘ç»œ 5edition.pdf
+HTTPæƒå¨æŒ‡å—ï¼ˆçœŸæ­£çš„å®Œæ•´ç‰ˆï¼Œé€ç»™çˆ±å­¦ä¹ çš„äººï¼‰.pdf
+HTTP_The+Definitive+Guide.pdf
+TCP_IP_ç¬¬5ç‰ˆ.pdf
+tcp_ip-illustrated-vol-2.pdf
+Richard_Stevens-TCP-IP_Illustrated-EN.pdf
+## others
+Debugging With GDBä¸­æ–‡ç‰ˆ.pdf
+proactor.pdf
+Head First jQuery.pdf
+ç²¾é€šæ­£åˆ™è¡¨è¾¾å¼.pdf
+An_Introduction_to_GCC_ä¸­æ–‡.pdf
+å¤§æ•™å ‚ä¸é›†å¸‚_ä¸­è‹±æ–‡å¯¹ç…§.pdf
+ç¼–ç çš„å¥¥ç§˜.pdf
+æš—æ—¶é—´.pdf
+podc-1996.pdf
+How To Ask Questions The Smart Way. Eric Steven Raymond.pdf
+æµªæ½®ä¹‹å·….pdf
+build you own memory manager.pdf
+Head First  Jqueryï¼ˆä¸­æ–‡ç‰ˆï¼‰.pdf
+Debugging With Gdb - The Gnu Source-Level Debugger.pdf
+æ·±å…¥ç†è§£Javaè™šæ‹Ÿæœºï¼ˆç¬¬2ç‰ˆï¼‰-da83.mobi
+æ•°å­¦ä¹‹ç¾.å´å†›.å½±å°ç‰ˆ.PDF
+cpumemory.pdf
+Structure And Interpretation Of Computer Programs (SICP).pdf
+å¦‚ä½•ç†è§£cå’Œc++çš„å¤æ‚ç±»å‹å£°æ˜.pdf
+ã€Šå¤§æ•™å ‚ä¸é›†å¸‚ã€‹ä¸­æ–‡ç‰ˆ.pdf
+threads.pdf
+## database
+O'Reilly.High.Performance.MySQL.3rd.Edition.Mar.2012.pdf
+Redis in Action.pdf
+Redisè®¾è®¡ä¸å®ç°.mobi
+SQLå¿…çŸ¥å¿…ä¼šBen Forta.mobi
+QConSF2012-EricBrewer-NoSQLPastPresentFuture.pdf
+Mastering Redis.epub
+Spanner Googles Globally Distributed Database.pdf
+REDIS å…¥é—¨æŒ‡å—.pdf
+## shell
+shell è„šæœ¬å„ç§æ‹¬å·çš„ç”¨é€”.docx
+LINUX SHELLè„šæœ¬æ”»ç•¥(ä¸­æ–‡ç‰ˆå¸¦ä¹¦ç­¾).pdf
+## server
+å¤§å‹å¤šäººåœ¨çº¿æ¸¸æˆå¼€å‘_20.pdf
+ç™¾ä¸‡ç”¨æˆ·çº§æ¸¸æˆæœåŠ¡å™¨æ¶æ„è®¾è®¡ .pdf
+å¤§å‹ç½‘ç«™æŠ€æœ¯æ¶æ„+æ ¸å¿ƒåŸç†ä¸æ¡ˆä¾‹åˆ†æ+ææ™ºæ…§.pdf
+## program language
+Fluent_Schemeç®€æ˜ä¸­æ–‡æ‰‹å†Œ-å¸¦ä¹¦ç­¾.pdf
+Programming in Lua third edition.pdf
+C++ Templates_ The Complete Guide  -Addison-Wesley Professional 1ed(2002).epub
+C++ Cç¼–ç¨‹æŒ‡å—ã€‹.æ—é”ç€.pdf
+Effective Modern CPP.pdf
+Modern C++ Design_ Generic Programming and Design Patterns Applied by Andrei Alexandrescu-Addison-Wesley Professional (2001).mobi
+The.Little.Schemer.4th.2.pdf
+Programming.in.Lua.4th.Edition.2016.8.mobi
+Seven Languages in Seven Weeks.pdf
+More Effective CPP.pdf
+Monads for functional programming.pdf
+Lua 5.pdf
+Modern C++ Design_ Generic Programming and Design Patterns Applied by Andrei Alexandrescu-Addison-Wesley Professional (2001).pdf
+C#+6.0+in+a+Nutshell.pdf
+build your own memory manager.pdf
+Javascrpt  é«˜çº§ç¨‹åºè®¾è®¡ï¼ˆç¬¬3ç‰ˆï¼‰è‹±æ–‡.pdf
+schemeä¹‹é“.docx
+Object-Oriented Programming With ANSI-C.pdf
+Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (January 3, 2013).mobi
+Threading in C#.pdf
+schem-r5rscn.pdf
+C++å¯¹è±¡æ¨¡å‹ PDFä¸­æ–‡æ¸…æ™°ç‰ˆ.pdf
+The Design And Evolution Of Cpp.pdf
+Cç¨‹åºè®¾è®¡è¯­è¨€(ç¬¬2ç‰ˆ_æ–°ç‰ˆ).pdf
+Luaä¸­æ–‡æ•™ç¨‹.pdf
+The C Programming Language 2E.pdf
+C Interfaces and Implementations.pdf
+Effective CPP.pdf
+Programming.in.Lua.4th.Edition.pdf
+Cå’ŒæŒ‡é’ˆ.pdf
+C++ Templates_ The Complete Guide-Addison-Wesley (2017).epub
+Simply.Scheme.pdf
+readinglua.pdf
+å…³äº_æ€è€ƒå‡½æ•°å¼ç¼–ç¨‹_å‡ ç‚¹æ³¨è®°_è£˜å®—ç‡•.pdf
+JavaScripté«˜çº§ç¨‹åºè®¾è®¡ï¼ˆç¬¬3ç‰ˆï¼‰ä¸­æ–‡ é«˜æ¸… å®Œæ•´.pdf
+C++ Primer Fifth Edition.pdf
+The Garbage Collection Handbook.pdf
+Cè¯­è¨€æ¥å£ä¸å®ç°--åˆ›å»ºå¯é‡ç”¨è½¯ä»¶çš„æŠ€æœ¯.pdf
+Turing Machines And Languages With Only Two Formation Rules.pdf
+Effective Go - The Go Programming Language.pdf
+Programming+Language+Pragmatics+4th.pdf
+Lambdaå’Œé«˜é˜¶å‡½æ•°_åˆ˜æ–°å®‡.pdf
+The Evolution of Lua.pdf
+The.MIT.Press.Essentials.of.Programming.Languages.3rd.Edition.Apr.2008.pdf
+Masterminds of Programming.pdf
+A Little Java A Few Patterns.pdf
+è‡ªåˆ¶ç¼–è¯‘å™¨ ,é’æœ¨å³°éƒè‘— ,P445.pdf
+ä¸¤å‘¨è‡ªåˆ¶è„šæœ¬è¯­è¨€é«˜æ¸…å®Œæ•´ç‰ˆ.pdf
+scheme-r5rs.pdf
+The_essence_of_functional_programming_(1992).pdf
+JavaScriptæƒå¨æŒ‡å—-ç¬¬6ç‰ˆ.pdf
+The Garbage Collection Handbook_The Art of Automatic Memory Management (2011, Chapman and Hall_CRC).epub
+The Go Programming Language.pdf
+JavaScriptæƒå¨æŒ‡å—(ç¬¬6ç‰ˆ)(ä¸­æ–‡ç‰ˆ).pdf
+C++ Templates_ The Complete Guide-Addison-Wesley (2017).pdf
+åƒåœ¾å›æ”¶çš„ç®—æ³•ä¸å®ç°.pdf
+Programming Language Pragmatics 3rd.pdf
+How To Design Programs.pdf
+The development of Chez Scheme.pdf
+å‡½æ•°å¼è¯­è¨€å¹¶è¡ŒåŒ–çš„æ–¹æ³•_å¤å¿—æ°‘.pdf
+The Essence of Compiling with Continuations.pdf
+å¦‚ä½•ç¼–å†™ç¨‹åº(scheme lambda).PDF
+The Seasoned Schemer.pdf
+å‡½æ•°å¼ç¼–ç¨‹è¯­è¨€å‘å±•åŠåº”ç”¨_ç‹å­¦ç‘.pdf
+Goè¯­è¨€ç¼–ç¨‹.pdf
+æ€è€ƒå‡½æ•°å¼ç¼–ç¨‹_è”¡å­¦é•›.pdf
+Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (January 3, 2013).epub
+## code exercise
+leetcode-cpp.pdf
+## distributed system
+Time, Clocks, and the Ordering of Events in a Distributed System.pdf
+raft-extended.pdf
+vm-ft.pdf
+Distributed systems basic concepts.pdf
+Distributed systems basic concepts.mobi
+replication2.pdf
+Distributed Systems Concepts and Design 5ed.pdf
+Martin Kleppmann-Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems-Oâ€™Reilly Media (2017).epub
+gfs.pdf
+MapReduce Simplified Data Processing on Large Clusters.pdf
+Perspectives on the CAP TheoremBrewer2.pdf
+paxos-simple.pdf
+Martin Kleppmann-Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems-Oâ€™Reilly Media (2017).pdf
+Impossibility of Distributed Consensus with One Faulty Process (FLP Impossibility).pdf
+lamport-paxos.pdf
+## data structure and algrithm
+lock-free-vector.pdf
+ç®—æ³•å¼•è®ºï¼šä¸€ç§åˆ›é€ æ€§æ–¹æ³•.pdf
+æ•°æ®ç»“æ„ä¸ç®—æ³•åˆ†æï¼šCè¯­è¨€æè¿°_åŸä¹¦ç¬¬2ç‰ˆ_é«˜æ¸…ç‰ˆ.pdf
+ç®—æ³•å¯¼è®ºä¸­æ–‡ç¬¬äºŒç‰ˆ.pdf
+Data Structure For Game Programers - Ron Penton.pdf
+RedBlack.pdf
+## tools
+progit.pdf
+progit-zh.936.mobi
+## container
+Docker-for-Virtualization-Admin-eBook.pdf
