@@ -45,8 +45,10 @@ Martin Kleppmann-Designing Data-Intensive Applications_ The Big Ideas Behind Rel
 Martin Kleppmann-Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems-O’Reilly Media (2017).pdf
 paxos-simple.pdf
 Perspectives on the CAP TheoremBrewer2.pdf
+raft-extended.pdf
 replication2.pdf
 Time, Clocks, and the Ordering of Events in a Distributed System.pdf
+vm-ft.pdf
 ## game
 Algorithms And Networking For Computer Games.pdf
 dead-reckon.pdf
@@ -91,6 +93,7 @@ ZeroMQ Messaging for Many Applications.pdf
 编码的奥秘.pdf
 ## program language
 A Little Java A Few Patterns.pdf
+build your own memory manager.pdf
 C Interfaces and Implementations.pdf
 C#+6.0+in+a+Nutshell.pdf
 C++ C编程指南》.林锐着.pdf
@@ -134,7 +137,6 @@ scheme-r5rs.pdf
 scheme之道.docx
 Seven Languages in Seven Weeks.pdf
 Simply.Scheme.pdf
-Stephen Prata-C Primer Plus, 6th Edition-Addison-Wesley (2013).pdf
 The C Programming Language 2E.pdf
 The Design And Evolution Of Cpp.pdf
 The development of Chez Scheme.pdf
