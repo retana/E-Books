@@ -80,6 +80,7 @@ proactor.pdf
 Structure And Interpretation Of Computer Programs (SICP).pdf
 threads.pdf
 《大教堂与集市》中文版.pdf
+哥德尔、艾舍尔、巴赫：集异璧之大成.mobi
 大教堂与集市_中英文对照.pdf
 如何理解c和c++的复杂类型声明.pdf
 数学之美.吴军.影印版.PDF
