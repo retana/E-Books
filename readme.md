@@ -44,6 +44,7 @@ MapReduce Simplified Data Processing on Large Clusters.pdf
 paxos-simple.pdf
 Perspectives on the CAP TheoremBrewer2.pdf
 raft-extended.pdf
+raft-zh_cn.pdf
 replication2.pdf
 Time, Clocks, and the Ordering of Events in a Distributed System.pdf
 vm-ft.pdf
