@@ -186,5 +186,5 @@ Working Effectively with Legacy Code.pdf
 大话设计模式(带目录完整版).pdf
 架构风格与基于网络的软件架构设计.pdf
 ## tools
-progit-zh.936.mobi
-progit.pdf
+progit_v2.1.14.mobi
+progit_v2.1.14.pdf
